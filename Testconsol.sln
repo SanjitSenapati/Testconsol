@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testconsol", "Testconsol\Testconsol.csproj", "{1E8861F4-C4B7-46B2-BA77-AA0D2E41712A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testconsol", "Testconsol\Testconsol.csproj", "{1E8861F4-C4B7-46B2-BA77-AA0D2E41712A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mthdovrding", "mthdovrding\mthdovrding.csproj", "{C7F25247-C902-4AC8-9F50-AB653C9E0403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodoveridingparameterised", "methodoveridingparameterised\methodoveridingparameterised.csproj", "{AB4D2953-E6FE-4AB2-9355-C9E02ED938AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{1E8861F4-C4B7-46B2-BA77-AA0D2E41712A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E8861F4-C4B7-46B2-BA77-AA0D2E41712A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E8861F4-C4B7-46B2-BA77-AA0D2E41712A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F25247-C902-4AC8-9F50-AB653C9E0403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F25247-C902-4AC8-9F50-AB653C9E0403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F25247-C902-4AC8-9F50-AB653C9E0403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F25247-C902-4AC8-9F50-AB653C9E0403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB4D2953-E6FE-4AB2-9355-C9E02ED938AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4D2953-E6FE-4AB2-9355-C9E02ED938AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4D2953-E6FE-4AB2-9355-C9E02ED938AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4D2953-E6FE-4AB2-9355-C9E02ED938AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
