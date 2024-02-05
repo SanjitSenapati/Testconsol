@@ -35,6 +35,7 @@ namespace mthdovrding
             manager mns = new manager();
             string mns1=mns.method1();
             Console.WriteLine(mns2+"   "+mns1);
+            Console.WriteLine("thanks");
 
         }
     }
